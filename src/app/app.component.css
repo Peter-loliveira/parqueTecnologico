@@ -1,0 +1,8 @@
+.area {
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-between; 
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+}
